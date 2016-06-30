@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM debian:8.5
 MAINTAINER Phusion <info@phusion.nl>
 
 ADD . /bd_build
